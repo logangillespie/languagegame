@@ -12,7 +12,6 @@ class CreationViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        IBAction
         // Do any additional setup after loading the view.
     }
     
