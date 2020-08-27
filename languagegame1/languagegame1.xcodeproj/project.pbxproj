@@ -15,6 +15,7 @@
 		BDD2A67C24F5C89900BB3E3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDD2A67A24F5C89900BB3E3E /* LaunchScreen.storyboard */; };
 		BDD2A68724F5C89900BB3E3E /* languagegame1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A68624F5C89900BB3E3E /* languagegame1Tests.swift */; };
 		BDD2A69224F5C89900BB3E3E /* languagegame1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A69124F5C89900BB3E3E /* languagegame1UITests.swift */; };
+		BDD56EFC24F74776000EBEDD /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD56EFB24F74776000EBEDD /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BDD2A68D24F5C89900BB3E3E /* languagegame1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = languagegame1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDD2A69124F5C89900BB3E3E /* languagegame1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = languagegame1UITests.swift; sourceTree = "<group>"; };
 		BDD2A69324F5C89900BB3E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDD56EFB24F74776000EBEDD /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BDD2A67124F5C89700BB3E3E /* SceneDelegate.swift */,
 				BDD2A67324F5C89700BB3E3E /* ViewController.swift */,
 				BDD2A67524F5C89700BB3E3E /* Main.storyboard */,
+				BDD56EFB24F74776000EBEDD /* CreationViewController.swift */,
 				BDD2A67824F5C89900BB3E3E /* Assets.xcassets */,
 				BDD2A67A24F5C89900BB3E3E /* LaunchScreen.storyboard */,
 				BDD2A67D24F5C89900BB3E3E /* Info.plist */,
@@ -262,6 +265,7 @@
 				BDD2A67424F5C89700BB3E3E /* ViewController.swift in Sources */,
 				BDD2A67024F5C89700BB3E3E /* AppDelegate.swift in Sources */,
 				BDD2A67224F5C89700BB3E3E /* SceneDelegate.swift in Sources */,
+				BDD56EFC24F74776000EBEDD /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
