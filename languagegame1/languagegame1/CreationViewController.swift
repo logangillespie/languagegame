@@ -10,9 +10,13 @@ import UIKit
 
 class CreationViewController: UIViewController {
 
+    @IBAction func back(_ sender: Any) {
+        dismiss(animated:true)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        IBAction
+        
         // Do any additional setup after loading the view.
     }
     
