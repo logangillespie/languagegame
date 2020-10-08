@@ -17,6 +17,7 @@
 		BDD2A68724F5C89900BB3E3E /* languagegame1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A68624F5C89900BB3E3E /* languagegame1Tests.swift */; };
 		BDD2A69224F5C89900BB3E3E /* languagegame1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A69124F5C89900BB3E3E /* languagegame1UITests.swift */; };
 		BDD56EFC24F74776000EBEDD /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD56EFB24F74776000EBEDD /* CreationViewController.swift */; };
+		BDEF07E2252EB50600C5A4A0 /* TriviaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEF07E1252EB50600C5A4A0 /* TriviaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		BDD2A69124F5C89900BB3E3E /* languagegame1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = languagegame1UITests.swift; sourceTree = "<group>"; };
 		BDD2A69324F5C89900BB3E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BDD56EFB24F74776000EBEDD /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
+		BDEF07E1252EB50600C5A4A0 /* TriviaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				BDD2A67824F5C89900BB3E3E /* Assets.xcassets */,
 				BDD2A67A24F5C89900BB3E3E /* LaunchScreen.storyboard */,
 				BDD2A67D24F5C89900BB3E3E /* Info.plist */,
+				BDEF07E1252EB50600C5A4A0 /* TriviaViewController.swift */,
 			);
 			path = languagegame1;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD7536D124FC92CF001E2F46 /* MultiPlayerCreationViewController.swift in Sources */,
+				BDEF07E2252EB50600C5A4A0 /* TriviaViewController.swift in Sources */,
 				BDD2A67424F5C89700BB3E3E /* ViewController.swift in Sources */,
 				BDD2A67024F5C89700BB3E3E /* AppDelegate.swift in Sources */,
 				BDD2A67224F5C89700BB3E3E /* SceneDelegate.swift in Sources */,
