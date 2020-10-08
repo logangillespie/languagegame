@@ -21,7 +21,16 @@ class TriviaViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func onButton1(_ sender: Any) {
+    }
+    @IBAction func onButton2(_ sender: Any) {
+    }
+    @IBAction func onButton3(_ sender: Any) {
+    }
+    @IBAction func onButton4(_ sender: Any) {
+    }
+    
+    
     /*
     // MARK: - Navigation
 
