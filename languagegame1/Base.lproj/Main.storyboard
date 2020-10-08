@@ -134,6 +134,13 @@
                         <viewLayoutGuide key="safeArea" id="HAH-X3-gJs"/>
                     </view>
                     <navigationItem key="navigationItem" id="D2r-bK-1aJ"/>
+                    <connections>
+                        <outlet property="option1" destination="jXE-Al-mNE" id="c11-K9-3AH"/>
+                        <outlet property="option2" destination="Vdu-cn-9iF" id="JoJ-Bt-GpU"/>
+                        <outlet property="option3" destination="GmI-7i-XBX" id="eDy-Rq-ksW"/>
+                        <outlet property="option4" destination="GaL-rK-56d" id="Xcd-tT-6UY"/>
+                        <outlet property="triviaImage" destination="wNB-Kg-akF" id="LcZ-a5-Yjg"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rM7-au-sm0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
