@@ -140,25 +140,25 @@
                                 <rect key="frame" x="93" y="398" width="229" height="63"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Galvji" family="Galvji" pointSize="18"/>
-                                <state key="normal" title="Adios" backgroundImage="orange button"/>
+                                <state key="normal" title="Adios"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vdu-cn-9iF">
                                 <rect key="frame" x="98" y="469" width="224" height="61"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Galvji" family="Galvji" pointSize="17"/>
-                                <state key="normal" title="Hola" backgroundImage="green button"/>
+                                <state key="normal" title="Hola"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GmI-7i-XBX">
                                 <rect key="frame" x="98" y="538" width="224" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Galvji" family="Galvji" pointSize="18"/>
-                                <state key="normal" title="Hello" backgroundImage="red"/>
+                                <state key="normal" title="Hello"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GaL-rK-56d">
                                 <rect key="frame" x="93" y="606" width="229" height="63"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Galvji" family="Galvji" pointSize="17"/>
-                                <state key="normal" title="Bye" backgroundImage="yellow"/>
+                                <state key="normal" title="Bye"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="0.91773390769999996" green="0.91426700350000001" blue="0.88496541979999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -242,10 +242,4 @@
             <point key="canvasLocation" x="1044.9275362318842" y="905.70652173913049"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="green button" width="290" height="133"/>
-        <image name="orange button" width="289" height="133"/>
-        <image name="red" width="289" height="136"/>
-        <image name="yellow" width="293" height="132"/>
-    </resources>
 </document>
