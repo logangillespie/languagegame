@@ -84,10 +84,10 @@
             </objects>
             <point key="canvasLocation" x="2784.057971014493" y="95.380434782608702"/>
         </scene>
-        <!--Language Master-->
+        <!--TriviaViewController-->
         <scene sceneID="UBX-IY-rW6">
             <objects>
-                <viewController title="Language Master" id="f5D-9Z-y7G" sceneMemberID="viewController">
+                <viewController title="TriviaViewController" id="f5D-9Z-y7G" customClass="TriviaViewController" customModule="languagegame1" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="rDi-K5-muS">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
