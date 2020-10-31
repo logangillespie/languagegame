@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD64E2E1252FAA2100FCC416 /* AlloyInk-lgdWw.otf in Resources */ = {isa = PBXBuildFile; fileRef = BD64E2DE252FAA2000FCC416 /* AlloyInk-lgdWw.otf */; };
+		BD64E2E2252FAA2100FCC416 /* info.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD64E2DF252FAA2000FCC416 /* info.txt */; };
+		BD64E2E3252FAA2100FCC416 /* AlloyInk-nRLyO.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD64E2E0252FAA2000FCC416 /* AlloyInk-nRLyO.ttf */; };
+		BD64E2E6252FAB2600FCC416 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BDD2A67D24F5C89900BB3E3E /* Info.plist */; };
 		BD7536D124FC92CF001E2F46 /* MultiPlayerCreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7536D024FC92CF001E2F46 /* MultiPlayerCreationViewController.swift */; };
 		BDD2A67024F5C89700BB3E3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A66F24F5C89700BB3E3E /* AppDelegate.swift */; };
 		BDD2A67224F5C89700BB3E3E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A67124F5C89700BB3E3E /* SceneDelegate.swift */; };
@@ -38,6 +42,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BD64E2DE252FAA2000FCC416 /* AlloyInk-lgdWw.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AlloyInk-lgdWw.otf"; sourceTree = "<group>"; };
+		BD64E2DF252FAA2000FCC416 /* info.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = info.txt; sourceTree = "<group>"; };
+		BD64E2E0252FAA2000FCC416 /* AlloyInk-nRLyO.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AlloyInk-nRLyO.ttf"; sourceTree = "<group>"; };
 		BD7536D024FC92CF001E2F46 /* MultiPlayerCreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiPlayerCreationViewController.swift; sourceTree = "<group>"; };
 		BDD2A66C24F5C89700BB3E3E /* languagegame1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = languagegame1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDD2A66F24F5C89700BB3E3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +89,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BD64E2DD252FAA2000FCC416 /* a-alloy-ink-font */ = {
+			isa = PBXGroup;
+			children = (
+				BD64E2DE252FAA2000FCC416 /* AlloyInk-lgdWw.otf */,
+				BD64E2DF252FAA2000FCC416 /* info.txt */,
+				BD64E2E0252FAA2000FCC416 /* AlloyInk-nRLyO.ttf */,
+			);
+			path = "a-alloy-ink-font";
+			sourceTree = "<group>";
+		};
 		BDD2A66324F5C89700BB3E3E = {
 			isa = PBXGroup;
 			children = (
@@ -106,6 +123,7 @@
 		BDD2A66E24F5C89700BB3E3E /* languagegame1 */ = {
 			isa = PBXGroup;
 			children = (
+				BD64E2DD252FAA2000FCC416 /* a-alloy-ink-font */,
 				BDD2A66F24F5C89700BB3E3E /* AppDelegate.swift */,
 				BDD2A67124F5C89700BB3E3E /* SceneDelegate.swift */,
 				BDD2A67324F5C89700BB3E3E /* ViewController.swift */,
@@ -241,9 +259,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD64E2E3252FAA2100FCC416 /* AlloyInk-nRLyO.ttf in Resources */,
 				BDD2A67C24F5C89900BB3E3E /* LaunchScreen.storyboard in Resources */,
 				BDD2A67924F5C89900BB3E3E /* Assets.xcassets in Resources */,
+				BD64E2E1252FAA2100FCC416 /* AlloyInk-lgdWw.otf in Resources */,
 				BDD2A67724F5C89700BB3E3E /* Main.storyboard in Resources */,
+				BD64E2E2252FAA2100FCC416 /* info.txt in Resources */,
+				BD64E2E6252FAB2600FCC416 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
