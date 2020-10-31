@@ -76,7 +76,7 @@ class TriviaViewController: UIViewController {
         if(currentQuestionPos + 1 < questions.count) {
             currentQuestionPos += 1
             currentQuestion = questions[currentQuestionPos]
-            setQuestion()
+            //setQuestion()
         // If there are no more questions show the results
         } else {
             performSegue(withIdentifier: "sgShowResults", sender: nil)
